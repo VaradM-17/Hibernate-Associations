@@ -8,7 +8,7 @@
 
 <h1>Hibernate Association Mappings</h1>
 
-<p>This project demonstrates different types of Hibernate association mappings in Java using annotations. Each association type is explained with examples of how it’s typically used in applications.</p>
+<p>This Repository demonstrates different types of Hibernate association mappings in Java using annotations. Each association type is explained with examples of how it’s typically used in applications.</p>
 
 <h2>Association Types</h2>
 
