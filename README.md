@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hibernate Association Mappings</title>
 </head>
 <body>
     <h1>Hibernate Association Mappings</h1>
@@ -42,5 +43,7 @@
         <li>MySQL (or any relational database)</li>
     </ul>
 
+    <h2>License</h2>
+    <p>This project is licensed under the MIT License.</p>
 </body>
 </html>
