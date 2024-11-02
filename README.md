@@ -49,8 +49,6 @@ java -cp ".:lib/*" com.controller.AssociationDemoController
 <h2>Usage</h2>
 <p>Run the application to see different types of association mappings in action. The console menu will guide you to interact with the entities and view their relationships.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
 
 </body>
 </html>
